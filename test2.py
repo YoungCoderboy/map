@@ -1,7 +1,7 @@
 import csv
 
 # Replace 'your_file.csv' with the path to your CSV file
-csv_file_path = './mall.csv'
+csv_file_path = './hen.csv'
 output_text_file_path = 'D://Code-Arena//js-samples//output.txt'  # Changed to '.txt' for plain text
 
 # Open the CSV file for reading
